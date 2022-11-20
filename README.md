@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://badge.mediaplus.ma/greenbinary/zchbani
+[![zchbani's 42 stats](https://badge.mediaplus.ma/greenbinary/zchbani)](https://github.com/oakoudad/badge42)
 
 <!--
 **zaayddev/zaayddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
